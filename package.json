@@ -1,0 +1,14 @@
+{
+  "name": "benizi-facebook-candy-console",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin R. Haskell <node@benizi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "~2.14.2"
+  }
+}
